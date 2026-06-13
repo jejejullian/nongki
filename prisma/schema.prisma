@@ -14,7 +14,7 @@ datasource db {
 
 enum Vibe {
   CHILL
-  WORK
+  COWORK
   HANGOUT
   DATE
 }
